@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Caro-Game/static/css/main.93b63b65.chunk.css",
+    "main.js": "/React-Caro-Game/static/js/main.bca86859.chunk.js",
+    "main.js.map": "/React-Caro-Game/static/js/main.bca86859.chunk.js.map",
+    "runtime-main.js": "/React-Caro-Game/static/js/runtime-main.ca8c916c.js",
+    "runtime-main.js.map": "/React-Caro-Game/static/js/runtime-main.ca8c916c.js.map",
+    "static/js/2.2602f6e9.chunk.js": "/React-Caro-Game/static/js/2.2602f6e9.chunk.js",
+    "static/js/2.2602f6e9.chunk.js.map": "/React-Caro-Game/static/js/2.2602f6e9.chunk.js.map",
+    "index.html": "/React-Caro-Game/index.html",
+    "static/css/main.93b63b65.chunk.css.map": "/React-Caro-Game/static/css/main.93b63b65.chunk.css.map",
+    "static/js/2.2602f6e9.chunk.js.LICENSE.txt": "/React-Caro-Game/static/js/2.2602f6e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca8c916c.js",
+    "static/js/2.2602f6e9.chunk.js",
+    "static/css/main.93b63b65.chunk.css",
+    "static/js/main.bca86859.chunk.js"
+  ]
+}
